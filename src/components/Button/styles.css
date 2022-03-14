@@ -8,7 +8,10 @@
   border-radius: 0.3rem;
 }
 
+
+
 input {
   color: black;
   margin-bottom: 10px;
+  display: flex;
 }

@@ -12,7 +12,9 @@ export const Button = () => {
 
   return (
     <>
+
       <input id="value" type="text" />
+      <input id="value" type="password" />
 
       <div>
         <button

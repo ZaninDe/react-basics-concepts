@@ -14,12 +14,12 @@ export const Button = () => {
     <>
 
       <input id="value" type="text" />
-      <input id="value" type="password" />
+      <input id="password" type="password" />
 
       <div>
         <button
           className="button"
-          onClick={(() => setcount(count + 1), console.log(sum))}
+          onClick={(() => setcount(count + 1))}
         >
           <span>{count}</span>
         </button>

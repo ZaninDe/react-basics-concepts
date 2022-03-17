@@ -13,8 +13,7 @@ export const Button = () => {
   return (
     <>
 
-      <input id="value" type="text" />
-      <input id="password" type="password" />
+    <h1>Simple Count <br/>With useState</h1>
 
       <div>
         <button
